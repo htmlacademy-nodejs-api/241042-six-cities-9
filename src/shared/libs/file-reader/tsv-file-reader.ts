@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 import { FileReader } from './file-reader.interface.js';
-import { User, Offer, OfferType, City, Goods, UserType, Location } from '../../types/index.js';
+import { User, Offer, OfferType, CityType, GoodsType, UserType, Location } from '../../types/index.js';
 
 const RADIX = 10;
 const TSV_ROW_DELIMITER = '\t';
@@ -56,7 +56,7 @@ export class TSVFileReader implements FileReader {
       title,
       description,
       createdDate: this.validateDate(new Date(createdDate)),
-      city: city as City,
+      city: city as CityType,
       previewImage,
       images: this.parseStringToArray<string[]>(images),
       isPremium: this.parseBoolean(isPremium),
@@ -66,7 +66,7 @@ export class TSVFileReader implements FileReader {
       bedrooms: this.parseStringToNumber(bedrooms),
       maxAdults: this.parseStringToNumber(maxAdults),
       price: this.parseStringToNumber(price),
-      goods: this.parseStringToArray<Goods[]>(goods),
+      goods: this.parseStringToArray<GoodsType[]>(goods),
       author: this.parseAuthor(name, email, password, avatarPath, userType as UserType),
       commentCount: this.parseStringToNumber(commentCount),
       location: this.parseLocation(location),
