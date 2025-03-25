@@ -1,0 +1,89 @@
+{
+  "api": {
+    "titles": [
+      "Loft Studio in the Central Area",
+      "The Pondhouse - A Magical Place",
+      "Hatka Bobra",
+      "Tent in Vladivostok",
+      "Penthouse in Vasyuki",
+      "Izbushka na chicken nozkah in the forest",
+      "Apartment house in Chelyabinsk",
+      "Polye Chudezzz"
+    ],
+    "descriptions": [
+      "I am happy to welcome you to my apartment in the city center! Three words: location, cosy and chic!",
+      "This is a place for dreamers to reset, reflect, and create.",
+      "Nice place to be!",
+      "Cool!!!",
+      "Bad carma!",
+      "So slow but too fast and too furious!",
+      "Bad :("
+    ],
+    "previewImages": [
+      "preview-1.jpg",
+      "preview-2.jpg",
+      "preview-3.jpg",
+      "preview-4.jpg",
+      "preview-5.jpg",
+      "preview-6.jpg"
+    ],
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg",
+      "image-6.jpg"
+    ],
+    "names": [
+      "Ivan Ivanovich",
+      "Oleg Sidorovich",
+      "Pier Bezuhov",
+      "Romald MacDonald",
+      "Holly Bin",
+      "Jack Torrence",
+      "Fnton Horodecky",
+      "Boris Britva",
+      "Stalone Balboa",
+      "Agent Smith"
+    ],
+    "emails": [
+      "snow@pisem.local",
+      "president@dka.local",
+      "fish@big.local",
+      "test@pisem.local",
+      "freedom@pisem.local",
+      "rolan@pochta.local",
+      "author@mir.local",
+      "test@lost.loca",
+      "kujo-fan@story.local"
+    ],
+    "passwords": [
+      "12345",
+      "qwerty",
+      "qwerty1234",
+      "098765",
+      "asdf",
+      "abcde",
+      "@64343#323232$!123",
+      "test",
+      "password123"
+    ],
+    "avatarPaths": [
+      "user.jpg",
+      "photo.jpg",
+      "awesome-avatar.jpg",
+      "roland.jpg",
+      "smite.jpg",
+      "coffee.jpg"
+    ],
+    "locations": [
+      "48.85661;2.351499",
+      "50.938361;6.959974",
+      "50.846557;4.351697",
+      "52.370216;4.895168",
+      "53.550341;10.000654",
+      "51.225402;6.776314"
+    ]
+  }
+}

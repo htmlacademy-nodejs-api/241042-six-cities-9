@@ -83,3 +83,12 @@ npm start
 ### Остальное
 
 Все остальные файлы в проекте являются служебными. Пожалуйста, не удаляйте и не изменяйте их самовольно. Только если того требует задание или наставник.
+
+### Получаем моки с сервера и генерируем данные
+
+```bash
+npm run ts ./src/main.cli.ts -- --generate 50 ./mocks/new-data.tsv http://localhost:3123/api
+```
+```bash
+npm run ts ./src/main.cli.ts -- --import ./mocks/new-data.tsv
+```

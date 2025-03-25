@@ -1,8 +1,8 @@
-export enum Goods {
+export enum GoodsType {
   Breakfast = 'Breakfast',
-  Air = 'Air conditioning',
-  Laptop = 'Laptop friendly workspace',
-  Baby = 'Baby seat',
+  AirConditioning = 'Air conditioning',
+  LaptopFriendlyWorkspace = 'Laptop friendly workspace',
+  BabySeat = 'Baby seat',
   Washer = 'Washer',
   Towels = 'Towels',
   Fridge = 'Fridge'
