@@ -54,7 +54,7 @@ export class TSVOfferGenerator implements OfferGenerator {
 
     return [
       title, description, createdDate,city, previewImage,
-      images, isPremium, isFavorite, price, rating, type, bedrooms, maxAdults, price, goods, name, email, avatarPath, password, userType, commentCount, location
+      images, isPremium, isFavorite, rating, price, type, bedrooms, maxAdults, price, goods, name, email, avatarPath, password, userType, commentCount, location
     ].join('\t');
   }
 }

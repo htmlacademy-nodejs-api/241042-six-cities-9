@@ -19,14 +19,6 @@
       "So slow but too fast and too furious!",
       "Bad :("
     ],
-    "cities": [
-      "Paris",
-      "Cologne",
-      "Brussels",
-      "Amsterdam",
-      "Hamburg",
-      "Dusseldorf"
-    ],
     "previewImages": [
       "preview-1.jpg",
       "preview-2.jpg",
@@ -42,21 +34,6 @@
       "image-4.jpg",
       "image-5.jpg",
       "image-6.jpg"
-    ],
-    "types": [
-      "apartment",
-      "house",
-      "room",
-      "hotel"
-    ],
-    "goods": [
-      "Breakfast",
-      "Air conditioning",
-      "Laptop friendly workspace",
-      "Baby seat",
-      "Washer",
-      "Towels",
-      "Fridge"
     ],
     "names": [
       "Ivan Ivanovich",
@@ -99,10 +76,6 @@
       "roland.jpg",
       "smite.jpg",
       "coffee.jpg"
-    ],
-    "userTypes": [
-      "user",
-      "pro"
     ],
     "locations": [
       "48.85661;2.351499",

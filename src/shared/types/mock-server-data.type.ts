@@ -1,17 +1,8 @@
 export type MockServerData = {
   titles: string[];
   descriptions: string[];
-  createdDate: Date;
-  // cities: CityType;
   previewImages: string[];
   images: string[];
-  // isPremium: boolean;
-  // isFavorite: boolean;
-  // rating: number;
-  // types: OfferType;
-  // bedrooms: number;
-  // maxAdults: number;
-  // prices: number;
   names: string[];
   emails: string[];
   passwords: string[];
